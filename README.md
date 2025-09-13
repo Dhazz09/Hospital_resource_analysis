@@ -1,1 +1,0 @@
-# Hospital_resource_analysis
